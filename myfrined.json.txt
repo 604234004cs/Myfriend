@@ -1,0 +1,88 @@
+[
+  
+   
+   
+ { 
+
+	"studentid": "574234040",
+     
+ 	"firstname": "Khadafee",
+      
+	"lastname": "Sereeyadee",
+      
+	"nickname": "Fee",
+      
+	"major": "ComputerScience",
+      
+	"birthday": "1996-03-29",
+      
+	"picture": "https://raw.githubusercontent.com/604234004cs/MyFirend/master/%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%9F%E0%B8%99%E0%B8%AA%E0%B8%A1%E0%B8%B2.jpg",
+   
+   "category":"friend"
+
+    
+ },
+ 
+   
+
+ { 
+	"studentid": "604234004",
+
+     	"firstname": "Jiwaree ",
+
+      	"lastname": "Rodneom",
+      
+	"nickname": "Muna",
+      
+	"major": "ComputerScience",
+    
+  	"birthday": "1998-10-13",
+   
+   	"picture": "https://raw.githubusercontent.com/604234004cs/MyFirend/master/%E0%B8%A3%E0%B8%B8%E0%B8%9B%20%E0%B8%A1%E0%B8%B8%E0%B8%99%E0%B8%B2.jpg",
+    "category":"friend"
+    
+ },
+    
+
+
+ { 
+	"studentid": "604234019",
+ 
+     	"firstname": " Rohanee",
+     
+ 	"lastname": "Samoot",
+      
+	"nickname": "Nee",
+      
+	"major": "ComputerScience",
+     
+ 	"birthday": "1998-09-25",
+      
+	"picture": "https://raw.githubusercontent.com/604234004cs/MyFirend/master/%E0%B8%A3%E0%B8%B9.jpg",
+    "category":"friend"
+   
+ 
+ }
+,  
+{ 
+	"studentid": "604234032",
+ 
+     	"firstname": "Hafisah",
+     
+ 	"lastname": "Harong",
+      
+	"nickname": "Feejah",
+      
+	"major": "ComputerScience",
+     
+ 	"birthday": "1998-04-01",
+      
+	"picture": "https://raw.githubusercontent.com/604234004cs/MyFirend/master/%E0%B8%9F%E0%B8%B5.jpg",
+   "category":"friend"
+   
+ 
+ }
+
+
+
+]
